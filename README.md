@@ -1,7 +1,7 @@
 # Datasets for Machine Learning
 This repo contains lots of datasets for various ML models.
 
-All content is licensed under the [GNU GPL v3](LICENSE) license.
+Repository is licensed under the [GNU GPL v3](LICENSE) license; all rights to content go to the respective owners.
 
 | Dataset | Archive | Description | Image/Char Count | Colab notebook |
 | ------- | ------- | ----------- | --------------------- | -------------- |
